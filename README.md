@@ -1,2 +1,2 @@
-# exerc-cio-html
+# exercicio-html
 Primeiro site usando html e css
